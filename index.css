@@ -2,10 +2,7 @@
     font-family:"cursed" ;
     src: url('CursedTimerUlil-Aznm.tff');
 }
-@media  screen and (max-width: 780px) {
-    body {
-    margin: 0;
-}
+
 
 .container {
     display: flex;
